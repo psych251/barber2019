@@ -1,6 +1,6 @@
 ---
-title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
-author: "Replication Author[s] (contact information)"
+title: "Replication of 'The relationship between future time perspective and memory control beliefs in older adults' by Sarah Barber and Carla Strickland-Hughes (2019, Research in Human Development)" 
+author: "Kathrine Whitman (kwhitman@stanford.edu)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
   html:
@@ -10,12 +10,17 @@ format:
 
 <!-- Replication reports should all use this template to standardize reporting across projects.  These reports will be public supplementary materials that accompany the summary report(s) of the aggregate results. -->
 
+## Links to github repo 
+### Link to repo https://github.com/psych251/barber2019/tree/main
+###Link to orignal paper https://github.com/psych251/barber2019/tree/main/original_paper
 ## Introduction
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
-
+I chose to examine this study because it bridges key themes in my research: lifespan development, future time perspectives, beliefs about memory and self-efficacy, and implications for cognitive aging. By disentangling three possible components of future time perspective (FTP) (coded in this study as opportunity, extension, and constraint), the study provides a detailed framework for understanding how older adults’ views of their future shape their beliefs about memory control. These findings are interesting in developing a better understanding the role of time horizons in human motivation, as it highlights that not all aspects of FTP influence individual's beliefs equally. Similar to how some subscales of the Ryff Psychological well-being scales map onto age-related changes in well-being, subscales of the FTP scale might apply differently by age. In particular, the strong link between FTP-opportunity and adaptive memory beliefs suggests that motivation and sense of control may be better associated with cognitive outcomes in late-life. 
 
 ## Methods
+The original study recruited 189 community-dwelling older adults aged 60–85 who completed an online survey. Stimuli consisted of standardized self-report measures: the Carstensen & Lang FTP Scale, divided into the three subscales validated by Rohr et al. (2017); the Adolescent and Adult Time Inventory – Future Attitudes subscales to assess positive and negative future outlooks; the Life Progress Slider (adapted from Cottle’s Future Extension Line) to gauge perceived position in the lifespan; and the Memory Controllability Inventory to assess beliefs about potential improvement, inevitable decline, and effort utility for memory. All responses were collected using Likert-type or slider scales. 
+
+Survey materials and administration are accessible; however, it should be noted that the participants in this online sample had high education levels, with 12% of participants having an MD or PhD. In our analysis, we will control for education and determine if education levels effect memory control beliefs and future time perspectives. 
 
 ### Power Analysis
 
