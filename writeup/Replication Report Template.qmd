@@ -10,10 +10,13 @@ format:
 
 <!-- Replication reports should all use this template to standardize reporting across projects.  These reports will be public supplementary materials that accompany the summary report(s) of the aggregate results. -->
 
-## Links to github repo 
-### Link to repo https://github.com/psych251/barber2019/tree/main
-###Link to orignal paper https://github.com/psych251/barber2019/tree/main/original_paper
+
+
 ## Introduction
+
+Links to github https://github.com/psych251/barber2019/tree/main
+
+Link to original paper https://github.com/psych251/barber2019/tree/main/original_paper
 
 I chose to examine this study because it bridges key themes in my research: lifespan development, future time perspectives, beliefs about memory and self-efficacy, and implications for cognitive aging. By disentangling three possible components of future time perspective (FTP) (coded in this study as opportunity, extension, and constraint), the study provides a detailed framework for understanding how older adults’ views of their future shape their beliefs about memory control. These findings are interesting in developing a better understanding the role of time horizons in human motivation, as it highlights that not all aspects of FTP influence individual's beliefs equally. Similar to how some subscales of the Ryff Psychological well-being scales map onto age-related changes in well-being, subscales of the FTP scale might apply differently by age. In particular, the strong link between FTP-opportunity and adaptive memory beliefs suggests that motivation and sense of control may be better associated with cognitive outcomes in late-life. 
 
@@ -24,15 +27,15 @@ Survey materials and administration are accessible; however, it should be noted 
 
 ### Power Analysis
 
-Original effect size, power analysis for samples to achieve 80%, 90%, 95% power to detect that effect size.  Considerations of feasibility for selecting planned sample size.
+The original study recruited N=189 community-dwelling older adults ages 60–85; Replicating that scale is realistic for 80–90% power for the small-medium effects (.27–.30). 
 
 ### Planned Sample
 
-Planned sample size and/or termination rule, sampling frame, known demographics if any, preselection rules if any.
+Age 60-85, fluent in English, able to complete an online survey independently; differs from original sample by being recruited online via Prolific. 
 
 ### Materials
 
-All materials - can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article.
+Carstensen and Lang (1996) FTP scale, Adolescent and Adult Time Inventory (ATI) – Time Attitude Scale, “Using a measure based upon Cottle’s (1976) Future Extension Line Test, participants used a sliding bar to report how far they had progressed in life.” (1–100 slider labeled beginning to end), Memory Controllability Inventory (MCI) with 20 items, five subscales
 
 ### Procedure	
 
